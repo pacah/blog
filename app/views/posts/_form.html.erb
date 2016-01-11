@@ -1,0 +1,25 @@
+<section class="main-section">
+<%= form_for(@post) do |f| %>
+  <% if @post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% @post.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <div class="row">
+  	<%= f.label "Тема", class: "label"%>
+  	<%= f.text_field :title, class: "input"%>
+  	
+  	<%= f.label "Сообщение", class: "label"%>
+	<%= f.text_area :content%>
+	</div>
+  <div class="row">
+    <%= f.submit "Отправить", class: "button"%>
+  </div>
+<% end %>
+</div>

@@ -1,0 +1,6 @@
+<%= form_for(@comment) do |f|%>
+  <%= f.hidden_field :post_id %>
+  <%= f.label :content, "Добавить комментарий"%>
+  <%= f.text_area :content, size: "40x6" %>	
+  <%= f.submit "Отправить", class: "button"%>	
+<% end %>

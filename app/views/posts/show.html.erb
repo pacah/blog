@@ -1,0 +1,40 @@
+	<div class="large-2 columns">
+		<%= link_to "Назад", root_path%>
+	</div>
+	
+<div class="row">
+	<div class="large-12 columns">
+	<h3><%= @post.title%></h3>
+	<p><%= @post.content%></p>
+	
+	<% if can? :update, @post%>
+		<%= link_to 'Edit', edit_post_path(@post) %> |
+	<% end %>
+	<% if can? :delete, @post%>
+		<%= link_to 'Delete', @post, :method => :delete%>
+	<% end %>
+
+
+	<h4>Комментарии</h4>
+	
+    <% if @post.comments.any?%>
+		<% @post.comments.each do |comment| %>
+		<section class="main-section">
+		  <div class="row">
+			<div class="large-12 columns">
+			  <small><%= comment.created_at%></small>
+			  <p class="right"><%= comment.user.email%></p>
+			  <p><%= comment.content%></p>
+			</div>
+		  </div>
+		</section>
+		<% end %>
+	<%end%>
+	
+		<% if user_signed_in? %>
+			<%= render 'comments/form' %>
+		<% else %>
+			<p><em>Вы должны <%= link_to 'войти', new_user_session_path %> что-бы оставить комментарий</em></p>
+		<% end %>
+	</div>
+</div>

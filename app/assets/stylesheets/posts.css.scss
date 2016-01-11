@@ -1,0 +1,13 @@
+@import "foundation";
+// Place all the styles related to the Posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.large-2.columns {
+  padding-left: 250px;
+  padding-top: 55px;
+  font-size: 20px;
+  a {
+    color: 222;
+  }
+}

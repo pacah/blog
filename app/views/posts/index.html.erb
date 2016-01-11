@@ -1,0 +1,16 @@
+<div class="row">
+<h1>Блог</h1>
+
+<% @posts.each do |post|%>
+
+ <section class="main-section">
+   <div class="row">
+     <div class="large-12 columns">
+      <h4><%= link_to post.title, post%></h4>
+      <p><%= post.content%></p>
+     </div>
+   </div>
+ </section>
+<% end %>
+
+</div>
