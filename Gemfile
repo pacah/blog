@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'ruby', '1.9.3'
 gem 'rails', '3.2.21'
 gem 'devise'
 gem 'foundation-rails'
