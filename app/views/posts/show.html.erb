@@ -5,8 +5,9 @@
 <div class="row">
 	<div class="large-12 columns">
 	<h3><%= @post.title%></h3>
-	<p><%= @post.content%></p>
-	
+	<section>
+	<%= @post.content%>
+	</section>
 	<% if can? :update, @post%>
 		<%= link_to 'Редактировать', edit_post_path(@post) %> |
 	<% end %>

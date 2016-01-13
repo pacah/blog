@@ -9,6 +9,8 @@ gem 'cancan'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development do
+	gem 'capybara'
+	gem 'cucumber-rails'
 	gem 'sqlite3'
 end
 
