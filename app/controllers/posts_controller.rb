@@ -5,8 +5,12 @@ class PostsController < ApplicationController
   respond_to :html
 
   def index
-    @posts = Post.order('created_at DESC').all
-    respond_with(@posts)
+  	if params[:query].present?
+  		@posts = Post.search(params[:query], load: true)
+  	else
+	    @posts = Post.order('created_at DESC').all
+	    respond_with(@posts)
+    end
   end
 
   def show
@@ -15,7 +19,7 @@ class PostsController < ApplicationController
     @comment = Comment.new
     @comment.post = @post
     respond_with(@post)
-    end
+  end
 
   def new
     @post = Post.new
@@ -46,6 +50,7 @@ class PostsController < ApplicationController
     @post.destroy
     respond_with(@post)
   end
+  
 
   private
     def set_post

@@ -4,13 +4,17 @@ gem 'rails', '3.2.21'
 gem 'devise'
 gem 'foundation-rails'
 gem 'cancan'
+gem 'tire'
 
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-group :development do
+group :development, :test do
 	gem 'capybara'
 	gem 'cucumber-rails'
+	gem 'spork-rails'
+	gem 'guard-spork'
+	gem 'childprocess'
 	gem 'sqlite3'
 end
 
