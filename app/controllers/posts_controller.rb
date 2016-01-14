@@ -40,15 +40,17 @@ class PostsController < ApplicationController
   end
 
   def update
-    @post = Post.find(params[:id])
-    @post.update_attributes(params[:post])
+  	@post = Post.find(params[:id])
+  	if @post.update_attributes(params[:post])
     respond_with(@post)
+   else
+   	render 'edit'
+   end
   end
 
   def destroy
-    @post = Post.find(params[:id])
-    @post.destroy
-    respond_with(@post)
+    Post.find(params[:id]).destroy
+    redirect_to root_url 
   end
   
 

@@ -11,7 +11,7 @@
 	<% if can? :update, @post%>
 		<%= link_to 'Редактировать', edit_post_path(@post) %> |
 	<% end %>
-	<% if can? :delete, @post%>
+	<% if can? :destroy, @post%>
 		<%= link_to 'Удалить', @post, :method => :delete%>
 	<% end %>
 
@@ -23,7 +23,7 @@
 		<section class="main-section">
 		  <div class="row">
 			<div class="large-12 columns">
-			  <small><%= comment.created_at%></small>
+			  <small><%= comment.created_at.strftime("%d %b %y")%></small>
 			  <p class="right"><%= comment.user.email%></p>
 			  <p><%= comment.content%></p>
 			</div>
