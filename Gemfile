@@ -7,6 +7,7 @@ gem 'cancan'
 gem 'tire'
 
 
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development, :test do
@@ -15,6 +16,11 @@ group :development, :test do
 	gem 'spork-rails'
 	gem 'guard-spork'
 	gem 'childprocess'
+end
+
+# Bundle edge Rails instead:
+# gem 'rails', :git => 'git://github.com/rails/rails.git'
+group :development do
 	gem 'sqlite3'
 end
 

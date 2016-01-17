@@ -1,0 +1,144 @@
+Connecting to database specified by database.yml
+Compiled jquery.js  (1ms)  (pid 26140)
+Compiled jquery_ujs.js  (0ms)  (pid 26140)
+Compiled comments.js  (536ms)  (pid 26140)
+Compiled posts.js  (97ms)  (pid 26140)
+Compiled foundation/foundation.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.abide.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.accordion.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.alert.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.clearing.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.dropdown.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.equalizer.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.interchange.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.joyride.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.magellan.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.offcanvas.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.orbit.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.reveal.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.slider.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.tab.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.tooltip.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.topbar.js  (0ms)  (pid 26140)
+Compiled foundation.js  (90ms)  (pid 26140)
+Compiled application.js  (755ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/comments.css.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Compiled comments.css  (42ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/posts.css.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/d786c19ee3d3af24ce2fd3d0665fd10a2ea0a089/foundation.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_grid.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_global.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/c0a6c6f2d9f465ad6270601e538eea1bf1d2b103/_functions.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_accordion.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_alert-boxes.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_block-grid.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_button-groups.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_buttons.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_clearing.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_dropdown.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_dropdown-buttons.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_flex-video.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_forms.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_icon-bar.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_inline-lists.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_joyride.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_keystrokes.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_labels.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_magellan.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_orbit.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_pagination.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_panels.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_pricing-tables.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_progress-bars.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_range-slider.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_reveal.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_side-nav.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_split-buttons.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_sub-nav.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_switches.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tables.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tabs.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_thumbs.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tooltips.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_top-bar.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_type.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_offcanvas.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_visibility.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Compiled posts.css  (3030ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/scaffolds.css.scssc: can't dump anonymous class #<Class:0x000000014f1180>
+Compiled scaffolds.css  (2ms)  (pid 26140)
+Compiled application.css  (3087ms)  (pid 26140)
+Compiled vendor/modernizr.js  (0ms)  (pid 26140)
+Connecting to database specified by database.yml
+Compiled jquery.js  (1ms)  (pid 26140)
+Compiled jquery_ujs.js  (0ms)  (pid 26140)
+Compiled comments.js  (186ms)  (pid 26140)
+Compiled posts.js  (88ms)  (pid 26140)
+Compiled foundation/foundation.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.abide.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.accordion.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.alert.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.clearing.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.dropdown.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.equalizer.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.interchange.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.joyride.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.magellan.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.offcanvas.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.orbit.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.reveal.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.slider.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.tab.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.tooltip.js  (0ms)  (pid 26140)
+Compiled foundation/foundation.topbar.js  (0ms)  (pid 26140)
+Compiled foundation.js  (88ms)  (pid 26140)
+Compiled application.js  (392ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/comments.css.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Compiled comments.css  (3ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/posts.css.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/d786c19ee3d3af24ce2fd3d0665fd10a2ea0a089/foundation.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_grid.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_global.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/c0a6c6f2d9f465ad6270601e538eea1bf1d2b103/_functions.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_accordion.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_alert-boxes.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_block-grid.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_button-groups.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_buttons.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_clearing.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_dropdown.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_dropdown-buttons.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_flex-video.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_forms.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_icon-bar.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_inline-lists.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_joyride.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_keystrokes.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_labels.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_magellan.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_orbit.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_pagination.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_panels.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_pricing-tables.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_range-slider.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_reveal.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_side-nav.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_split-buttons.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_sub-nav.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_switches.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tables.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tabs.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_thumbs.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_tooltips.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_top-bar.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_type.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_offcanvas.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/3d5c61f048eb373c67090017adbfa71b61ba4813/_visibility.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Compiled posts.css  (2935ms)  (pid 26140)
+Warning. Error encountered while saving cache /home/rus/blog/tmp/cache/sass/0d8d42113aa579fb7278a761d8abfda5ba83b143/scaffolds.css.scssc: can't dump anonymous class #<Class:0x00000001d567a8>
+Compiled scaffolds.css  (2ms)  (pid 26140)
+Compiled application.css  (2951ms)  (pid 26140)
+Compiled vendor/modernizr.js  (0ms)  (pid 26140)
