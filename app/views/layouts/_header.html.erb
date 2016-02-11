@@ -22,11 +22,6 @@
 		  <%= link_to "Написать", new_post_path, class: "button large" %> 
 		<% end %>
 		</li>
-		<li>
-		<%= form_tag posts_path, method: :get do %>
-			<%= text_field_tag :query, params[:query], placeholder: "Поиск по Enter" %>
-		<% end %>
-		</li>
 	</ul>
    </section>
 

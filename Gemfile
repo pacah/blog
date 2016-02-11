@@ -6,7 +6,7 @@ gem 'rails', '3.2.21'
 gem 'devise'
 gem 'foundation-rails'
 gem 'cancan'
-gem 'tire'
+#gem 'tire'
 
 
 # Bundle edge Rails instead:

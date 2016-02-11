@@ -5,8 +5,5 @@ class Post < ActiveRecord::Base
    
    validates :title, presence: true
    validates :content, presence: true
-   
-   include Tire::Model::Search
-   include Tire::Model::Callbacks
 
 end
