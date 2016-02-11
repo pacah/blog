@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
+ruby '1.9.3'
+
 gem 'rails', '3.2.21'
 gem 'devise'
 gem 'foundation-rails'
 gem 'cancan'
 gem 'tire'
-
 
 
 # Bundle edge Rails instead:
@@ -41,7 +42,7 @@ gem 'jquery-rails'
 # To use ActiveModel has_secure_password
  gem 'bcrypt-ruby', '~> 3.0.0'
  
- group :production do
+group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
